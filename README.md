@@ -25,7 +25,6 @@
 ```text
 .
 ├─ ui4.1.py                      # 主程序（推荐）
-├─ ResonanceUI41.spec            # PyInstaller 专用打包模板
 ├─ resonance_config.json         # 运行后自动生成（配置）
 ├─ resonance_sessions.json       # 运行后自动生成（会话）
 └─ resonance_outputs/            # 运行后自动生成（图片输出）
